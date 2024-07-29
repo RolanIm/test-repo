@@ -1,0 +1,6 @@
+{
+  "name": "Test",
+  "description": "Test token",
+  "image": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/solana/info/logo.png",
+  "symbol": "SER"
+}
